@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pool
+comment0.text=\n\ This\ class\ represents\ a\ highly\ simplified\ gaming\n\ pool\ for\ a\ lucky\ day\ drawing.\ \ The\ pool\ is\ a\ 2D\ \n\ matrix\ of\ Entry\ objects.\ There\ may\ only\ be\ one\ \n\ Entry\ object\ per\ pool\ row\ and\ column.\ \ Once\ an\ \n\ entry\ is\ made\ in\ a\ pool\ location,\ it\ cannot\ be\ \n\ reversed\ or\ overwritten.\n\ \n\ In\ this\ implementation,\ the\ winning\ entrant\ is\n\ entered\ in\ the\ select\ day\ (1-7,\ Sunday\ -\ Saturday)\n\ and\ hour\ (0-23,\ military\ hours).\n\ \n\ @author\ Prof.\ White\n\ @version\ Spring\ 2019\n
+comment1.params=
+comment1.target=Pool()
+comment1.text=\n\ Constructs\ a\ new\ Pool\ object.\n
+comment2.params=day\ hour\ name\ amount
+comment2.target=boolean\ addEntry(int,\ int,\ java.lang.String,\ double)
+comment2.text=\n\ Adds\ an\ entry\ to\ the\ pool\ if\ one\ has\ not\ yet\ been\ made\ and\ if\ \n\ the\ day\ is\ in\ the\ correct\ range,[1,\ DAYS\ +\ 1],\ the\ hour\ is\ \n\ in\ the\ correct\ range\ [0,\ HOURS),\ and\ the\ amount\ of\ the\ \n\ entry\ in\ greater\ than\ 0.\n\ \n\ @param\ The\ day\ to\ make\ the\ entry.\n\ @param\ The\ hour\ to\ make\ the\ entry.\n\ @param\ The\ dollar\ amount\ of\ the\ entry.\n\ @return\ True\ if\ the\ entry\ is\ successfully\ added\ to\ the\ pool\ and\ \n\ \ \ \ \ \ \ \ \ false\ otherwise.\n
+comment3.params=
+comment3.target=int\ entriesAvailable()
+comment3.text=\n\ Return\ the\ number\ of\ entries\ still\ available\ for\ this\ pool.\n\ (An\ entry\ is\ available\ if\ its\ value\ is\ null.)\n\ \n\ @return\ The\ number\ of\ entries\ still\ available\ for\ this\ pool.\n
+comment4.params=day\ hour
+comment4.target=Entry\ getWinner(int,\ int)
+comment4.text=\n\ Return\ the\ winning\ entry\ for\ the\ lucy\ day\ and\ hour.\n\ The\ lucky\ day\ must\ be\ in\ the\ range,[1,\ DAYS\ +\ 1]\ and\n\ the\ lucky\ hour\ hour\ must\ be\ in\ the\ range\ [0,\ HOURS).\ \ \n\ Otherwise,\ return\ null.\n\ \n\ @param\ The\ lucky\ day.\n\ @param\ The\ lucky\ hour.\n\ @param\ Return\ the\ winning\ entry\ or\ null\ if\ the\ input\ is\n\ \ \ \ \ \ \ \ not\ in\ the\ correct\ range.\n
+comment5.params=
+comment5.target=double\ poolTotal()
+comment5.text=\n\ Return\ the\ sum\ of\ all\ dollar\ amounts\ in\ this\ pool.\n\ \n\ @return\ The\ sum\ of\ all\ dollar\ amounts\ in\ this\ pool.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Return\ the\ string\ representing\ this\ pool\ in\ a\ 2D\ display.\ \ \n\ Null\ entrys\ should\ be\ represented\ as\ "****".\n\ \n\ Note\:\ \ This\ method\ could\ be\ improved\ so\ the\ string\ is\ \n\ formatted\ to\ preserve\ columns\ where\ tab\ is\ not\ effective\!\n\ \n\ @return\ The\ string\ representing\ this\ pool\ in\ a\ 2D\ display\ \n\ \ \ \ \ \ \ \ \ where\ open\ entries\ are\ represented\ as\ "****".\n
+numComments=7

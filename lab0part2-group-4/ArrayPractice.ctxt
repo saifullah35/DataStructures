@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArrayPractice
+comment0.text=\n\ CSIS-210\ Lab\ 0\n\ \n\ Complete\ each\ of\ the\ following\ methods\ according\ to\ the\ method\ comments.\n\ DO\ NOT\ CHANGE\ THE\ METHOD\ HEADERS.\n\n\ @author\ Saif\ Ullah\ and\ Jonathan\ Masih\n\ @version\ Feb\ 22,\ 2021\n
+comment1.params=arr
+comment1.target=double\ sum(java.lang.Double[])
+comment1.text=\n\ Return\ the\ sum\ of\ the\ elements\ in\ the\ array.\n\ \n\ @param\ arr[]\ The\ input\ array\ of\ Double\ objects.\n\ @return\ The\ sum\ of\ the\ elements\ in\ the\ array.\n
+comment2.params=arr
+comment2.target=int\ sum(java.lang.Integer[])
+comment2.text=\n\ Return\ the\ sum\ of\ the\ elements\ in\ the\ array.\n\ \n\ @param\ arr[]\ The\ input\ array\ of\ Integer\ objects.\n\ @return\ The\ sum\ of\ the\ elements\ in\ the\ array.\n
+comment3.params=arr
+comment3.target=int\ largest(java.lang.Integer[])
+comment3.text=\n\ Return\ the\ largest\ value\ in\ the\ array.\n\ \n\ @param\ arr[]\ The\ input\ array\ of\ Integer\ objects.\n\ @return\ The\ largest\ value\ in\ the\ array.\n
+comment4.params=arr\ value
+comment4.target=int\ countLarger(java.lang.Integer[],\ int)
+comment4.text=\n\ Return\ the\ number\ of\ elements\ in\ the\ input\ array\ that\ are\n\ strictly\ larger\ than\ the\ input\ value.\n\ \n\ @param\ arr[]\ The\ input\ array\ of\ Integer\ objects.\n\ @param\ value\ The\ value\ to\ which\ the\ elements\ will\ be\ compared.\n\ @return\ The\ number\ of\ elements\ in\ the\ input\ array\ that\ are\n\ \ \ \ \ \ \ \ \ strictly\ larger\ than\ the\ input\ value.\n
+comment5.params=arr
+comment5.target=int\ countTrue(java.lang.Boolean[])
+comment5.text=\n\ Return\ the\ number\ of\ elements\ in\ the\ array\ that\ have\n\ a\ value\ of\ TRUE.\n\ \n\ @param\ arr[]\ The\ input\ array\ of\ Boolean\ values.\n\ @return\ The\ number\ of\ elements\ in\ the\ array\ that\ have\n\ \ \ \ \ \ \ \ \ a\ value\ of\ TRUE.\n
+comment6.params=arr
+comment6.target=java.lang.Integer[]\ stringLengths(java.lang.String[])
+comment6.text=\n\ Return\ an\ array\ of\ values\ that\ represent\ the\ lengths\ of\n\ the\ string\ values\ in\ the\ input\ array.\ \ For\ example,\ if\n\ the\ input\ array\ is\ {"I",\ "love",\ "CS"},\ then\ the\ returned\n\ array\ would\ be\ {1,\ 4,\ 2}.\n\ \n\ @param\ arr[]\ The\ input\ array\ of\ String\ objects.\n\ @return\ The\ array\ representing\ the\ lengths\ of\ the\ Strings\ in\n\ \ \ \ \ \ \ \ \ the\ input\ array.\n
+numComments=7

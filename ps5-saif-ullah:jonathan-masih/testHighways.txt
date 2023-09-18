@@ -1,0 +1,50 @@
+US 1
+Fort Kent, ME
+ME NH MA RI CT NY NJ PA MD DC VA NC SC GA FL
+Key West, FL
+2377
+US 201
+Sandy Bay Twp., ME
+ME
+Brunswick, ME
+157
+US 301
+Glasgow, DE
+DE MD VA NC SC GA FL
+Sarasota, FL
+1099
+US 401
+Paschall, NC
+NC SC
+Sumter, SC
+257
+US 501
+Buena Vista, VA
+VA NC SC
+Myrtle Beach, SC
+355
+US 601
+Mt. Airy, NC
+NC SC
+Tarboro, SC
+319
+US 701
+Four Oaks, NC
+NC SC
+Georgetown, SC
+172
+US 3
+Connecticut SF, NH
+NH MA
+Boston, MA
+273
+US 5
+Derby Line, VT
+VT MA CT
+New Haven, CT
+300
+US 7
+Highgate Springs, VT
+VT MA CT
+Norwalk, CT
+309

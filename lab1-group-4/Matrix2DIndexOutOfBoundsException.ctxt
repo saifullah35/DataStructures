@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Matrix2DIndexOutOfBoundsException
+comment0.text=\n\ An\ exception\ to\ be\ thrown\ by\ Matrix2D\ methods\ when\ a\ row\ or\ column\n\ index\ is\ specified\ out\ of\ range.\n\ \n\ @author\ Jim\ Teresco\n\ @version\ Fall\ 2017\n
+comment1.params=rowCol\ number\ size
+comment1.target=Matrix2DIndexOutOfBoundsException(java.lang.String,\ int,\ int)
+numComments=2

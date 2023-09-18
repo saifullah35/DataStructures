@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=USHighway
+comment0.text=\n\ Order\ the\ roads\ of\ USHighways\ by\ length\n\n\ @author\ (Saif\ Ullah\ and\ Jonathan\ Masih)\n\ @version\ (May\ 17,\ 2021)\n
+comment1.params=routeNumber\ startLocation\ routeOfStates\ endLocation\ lengthOfMiles
+comment1.target=USHighway(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ USHighway\n
+comment2.params=
+comment2.target=java.lang.String\ getRouteNumber()
+comment3.params=
+comment3.target=java.lang.String\ getStartLocation()
+comment4.params=
+comment4.target=java.lang.String\ getRouteOfStates()
+comment5.params=
+comment5.target=java.lang.String\ getEndLocation()
+comment6.params=
+comment6.target=int\ getLengthOfMiles()
+comment7.params=other
+comment7.target=boolean\ equals(USHighway)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=other
+comment9.target=int\ compareTo(USHighway)
+numComments=10

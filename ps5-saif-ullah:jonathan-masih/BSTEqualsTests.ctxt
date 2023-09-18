@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BSTEqualsTests
+comment0.text=\nClass\ for\ testing\ equals\ method\ and\ shapeEquals\ method\nBSTEqualsTests\ here.\n\n\ @author\ (Jonathan\ Masih\ ,\ Saif\ Ullah)\n\ @version\ (5/7/2021)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

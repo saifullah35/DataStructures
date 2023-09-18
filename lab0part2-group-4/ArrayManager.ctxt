@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayManager
+comment0.text=\n\ In\ this\ class,\ an\ array\ is\ used\ to\ keep\ track\ of\n\ integer\ values.\ \ The\ length\ of\ the\ array\ is\ determined\n\ upon\ construction\ of\ the\ ArrayManager\ object.\ \ The\n\ location\ of\ the\ next\ available\ index\ to\ hold\ an\ array\n\ value\ is\ tracked.\ \ Elements\ of\ the\ array\ that\ are\ not\ \n\ used\ have\ a\ value\ of\ -999.\n\ \n\ For\ example,\ if\ an\ ArrayManager\ object\ is\ constructed\ with\ \n\ 3\ elements,\ once\ constructed\ its\ elements\ are\ {-999,\ -999,\ -999}\n\ and\ the\ nextAvailable\ element\ that\ can\ hold\ a\ value\ is\n\ located\ at\ index\ 0.\ \ If\ the\ value\ 3\ is\ added,\ the\ elements\n\ are\ {3,\ -999,\ -999}\ and\ nextAvailable\ \=\ 1.\n\ \n\ Debug\ (DO\ NOT\ WRITE\ YOUR\ OWN)\ the\ methods\ so\ they\ work\ as\ required.\ \ \n\ Bugs\ may\ include\ logic\ errors,\ syntax\ errors,\ and/or\ runtime\ errors.\n\n\ @author\ Prof.\ White,\ Dr.\ Liu\ modified\ by\ (your\ names)\n\ @version\ Lab\ 0,\ Spring\ 2021\n
+comment1.params=numElements
+comment1.target=ArrayManager(int)
+comment1.text=\n\ Constructs\ an\ ArrayManager\ object\ with\ the\n\ input\ number\ of\ elements\ in\ and\ integer\ array.\n\ \n\ @param\ numElements\ -\ The\ number\ of\ elements\ that\n\ the\ array\ will\ contain\ after\ construction.\ \ Each\n\ array\ element\ will\ have\ a\ value\ of\ -999.\n
+comment2.params=value
+comment2.target=void\ addElement(int)
+comment2.text=\n\ Adds\ the\ input\ value\ in\ the\ next\ available\ location\n\ in\ the\ array.\ \ If\ there\ are\ no\ available\ locations,\ \n\ the\ value\ is\ not\ added.\n\ \n\ @param\ value\ The\ value\ to\ add\ in\ the\ next\ available\n\ location\ in\ the\ array.\n
+comment3.params=value\ location
+comment3.target=void\ insertElement(int,\ int)
+comment3.text=\n\ Inserts\ the\ input\ value\ in\ the\ input\ location\ in\ the\n\ array.\ \ Values\ to\ the\ right\ of\ the\ input\ location\n\ are\ shifted\ to\ the\ right.\ \ If\ there\ is\ not\ at\ least\n\ one\ avaialble\ location\ in\ the\ array,\ the\ input\ value\n\ is\ not\ added\ to\ the\ array.\n\ \n\ Precondition\:\ \ 0\ <\=\ location\ <\ length\ of\ the\ array\n\ \n\ @param\ value\ The\ value\ to\ be\ inserted\ into\ the\ array.\n\ @param\ location\ The\ location\ in\ the\ array\ where\ the\n\ value\ should\ be\ inserted.\n
+comment4.params=location
+comment4.target=int\ removeElement(int)
+comment4.text=\n\ Removes\ and\ returns\ the\ value\ at\ the\ location\ in\ the\ array.\ \ If\ the\ \n\ input\ location\ is\ to\ the\ left\ of\ the\ next\ available\ location\ in\ the\ \n\ array,\ the\ value\ is\ removed\ and\ all\ elements\ to\ the\ right\ of\ the\ \n\ input\ location\ are\ shifted\ to\ the\ left.\ \ Otherwise,\ the\ value\ is\ not\ \n\ removed.\n\ \n\ Precondition\:\ \ 0\ <\=\ location\ <\ length\ of\ the\ array\n\ \n\ @param\ location\ The\ location\ of\ the\ value\ in\ the\ array\ to\ be\ removed.\n\ @return\ The\ value\ that\ is\ removed.\ \ If\ no\ value\ is\ removed,\ -999\ is\n\ returned.\n
+comment5.params=
+comment5.target=int[]\ getArray()
+comment5.text=\n\ Accessor\ method\ returning\ the\ array\ instance\ variable.\n\ \n\ @return\ The\ the\ array\ instance\ variable.\n
+numComments=6

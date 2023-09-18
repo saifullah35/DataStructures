@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UnitTestArrayManager
+comment0.text=\n\ This\ class\ is\ used\ to\ perform\ a\ unit\ test\ on\ the\n\ ArrayManager\ class.\ \ \n\ \n\ DO\ NOT\ ALTER\ THIS\ CLASS.\ \ \n\n\ @author\ Prof.\ White\n\ @version\ Spring\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ printArray(int[])
+comment2.text=\n\ This\ method\ will\ print\ the\ values\ of\ the\ input\ array,\ \n\ each\ on\ the\ same\ line,\ separated\ by\ spaces.\n\ \n\ @param\ obj[]\ The\ input\ array.\n
+numComments=3
