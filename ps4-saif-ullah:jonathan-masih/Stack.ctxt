@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\n\ Implements\ a\ generic\ stack\ in\ an\ array.\n\ For\ this\ implementation,\ if\ all\ of\ the\ \n\ array\ slots\ are\ full,\ then\ the\ stack\ is\n\ full\ and\ no\ additional\ elements\ can\n\ be\ added.\n\ \n\ @author\ \n\ @version\ Spring\ 2019\n
+comment1.params=size
+comment1.target=Stack(int)
+comment1.text=\n\ Construct\ a\ new\ generic\ stack\ of\ the\ input\ size.\n\ \n\ Precondition\:\ \ size\ >\=\ 1\n\ \n\ @param\ size\ The\ size\ of\ the\ stack\ to\ create.\n
+comment2.params=element
+comment2.target=void\ push(java.lang.Object)
+comment2.text=\n\ Pushes\ an\ item\ onto\ the\ top\ of\ this\ stack\n\ @param\ \ the\ item\ to\ be\ pushed\ onto\ this\ stack.\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\n\ Remove\ the\ object\ at\ top\ and\ return\ it\n\ \n
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment4.text=\n\ Looks\ at\ the\ object\ at\ the\ top\ of\ this\ stack\ without\ removing\ it\ \n\ from\ the\ stack.\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\n\ Tests\ to\ see\ if\ that\ stack\ is\ empty\n\ \n\ @return\ true\ if\ and\ only\ if\ the\ stack\ contains\ no\ item\ and\ false\ otherwise\n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=\n\ Clears\ the\ stack\ list\n
+comment7.params=obj
+comment7.target=int\ search(java.lang.Object)
+comment7.text=\n\ Return\ the\ index\ of\ the\ object\ on\ the\ stack,\ if\ it\ exists.\n\ Otherwise,\ return\ -1.\n\ \n\ @param\ obj\ The\ object\ to\ search\ for\ in\ the\ stack.\n\ @return\ The\ index\ of\ the\ object\ in\ the\ stack\ or\ -1\n\ if\ the\ object\ does\ not\ exist.\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Return\ a\ string\ representation\ of\ the\ stack\ where\n\ each\ each\ object\ starts\ on\ a\ new\ line\ of\ output\n\ when\ the\ string\ is\ printed.\n\ \n\ @return\ An\ string\ representation\ of\ the\ stack\ as\n\ described.\n
+numComments=9

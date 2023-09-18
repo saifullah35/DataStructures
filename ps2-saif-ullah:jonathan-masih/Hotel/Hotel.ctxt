@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Hotel
+comment0.text=\n\ Hotel\ rooms\ that\ are\ aviable\ and\ \ are\ reserved.\n\n\ @author\ (Jonathan\ Masih\ And\ Saih\ ullah\ )\n\ @version\ (3/22/2021)\n
+comment1.params=
+comment1.target=Hotel()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Hotel\n
+comment10.params=roomNumber
+comment10.target=boolean\ reserveRoom(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=availableRooms\ reservedRooms
+comment2.target=Hotel(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=room
+comment3.target=boolean\ addNewRoom(Room)
+comment4.params=
+comment4.target=java.util.ArrayList\ getAllAvailableRooms()
+comment5.params=
+comment5.target=java.util.ArrayList\ getAllReservedRooms()
+comment6.params=roomNumber
+comment6.target=Room\ getAvailableRoomByRoomNumber(int)
+comment7.params=floor\ view\ maxCapacity\ kitchenette
+comment7.target=java.util.ArrayList\ getAvailableRooms(int,\ View,\ int,\ boolean)
+comment8.params=roomNumber
+comment8.target=Room\ getReservedRoomByRoomNumber(int)
+comment9.params=roomNumber
+comment9.target=boolean\ makeRoomAvailable(int)
+numComments=12

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RecursionPractice
+comment0.text=\n\ RecursionPractice\ \n\n\ @author\ (Jonathan\ Masih\ &\ saif\ Ullah)\n\ @version\ April\ 13,\ 2021\n
+comment1.params=str
+comment1.target=java.lang.String\ vowelToUpperCase(java.lang.String)
+comment1.text=\n\ This\ method\ takes\ a\ string\ as\ input\ and\ returns\ a\ new\ string,\ \n\ generated\ recursively.\ \ The\ new\ string\ contains\ all\ of\ the\ same\n\ characters\ in\ the\ same\ order,\ except\ all\ vowels\ are\ in\ uppercase.\n\ \n\ This\ method\ should\ throw\ an\ illegal\ argument\ exception\ with\ an\ \n\ appropriate\ message\ if\ the\ input\ string\ is\ null.\n\ \n\ @param\ str\ The\ input\ string.\n\ @return\ A\ new\ string\ with\ all\ of\ the\ same\ characters\ in\ the\ same\n\ order,\ except\ all\ vowels\ are\ in\ upper\ case.\n
+comment2.params=str
+comment2.target=java.lang.String\ vowelToUpperCase2(java.lang.String)
+comment3.params=number
+comment3.target=int\ evenOdd(int)
+comment3.text=\n\ This\ method\ take\ an\ integer\ as\ input\ an\ returns\ an\ integer\ such\ that\ the\n\ order\ of\ the\ digits\ is\ reversed\ and\ all\ odd\ digits\ are\ replaced\ with\ 0.\n\ \n\ @param\ number\ An\ integer.\n\ @return\ An\ integer\ such\ that\ the\ order\ of\ the\ digits\ is\ reversed\ and\ all\n\ odd\ digits\ are\ replaced\ with\ 0.\n
+comment4.params=number
+comment4.target=int\ evenOdd2(int)
+comment5.params=array\ begin\ end\ greaterThan
+comment5.target=int\ sumIn(int[],\ int,\ int,\ int)
+comment5.text=\n\ This\ method\ sums\ all\ the\ values\ in\ [array[begin],\ array[end]]\ that\ are\ greater\n\ than\ the\ input\ value\ greaterThan.\n\ \n\ Preconditions\:\ \ \n\ (1)\ The\ array\ is\ not\ null\ \n\ (2)\ -1\ <\ begin\ <\=\ end\ <\ the\ number\ of\ elements\ in\ the\ array\n\ \n\ This\ method\ should\ throw\ an\ illegal\ argument\ exception\ with\ an\ \n\ appropriate\ message\ if\ any\ of\ the\ preconditions\ are\ violated.\n\ \n\ @param\ array\ The\ inter\ array.\n\ @param\ begin\ The\ index\ into\ the\ array\ in\ which\ to\ begin\ the\ sum.\n\ @param\ end\ The\ index\ into\ the\ array\ in\ which\ to\ end\ the\ sum.\n\ @param\ greaterThan\ \ Only\ sum\ elements\ if\ they\ are\ greater\ than\ this\ input.\n\ @return\ The\ sum\ of\ elements\ in\ [array[begin],\ array[end]]\ whose\ values\ are\n\ greater\ than\ the\ input\ value.\n
+comment6.params=array\ begin\ end\ greaterThan
+comment6.target=int\ sumIn2(int[],\ int,\ int,\ int)
+numComments=7

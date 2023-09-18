@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GenericMethodExample
+comment1.params=list\ itemToCount
+comment1.target=int\ countOccurrences(java.lang.Object[],\ java.lang.Object)
+comment1.text=\n\ Returns\ the\ number\ of\ times\ itemToCount\ occurs\ in\ list.\ \ \n\ \n\ @return\ the\ number\ of\ times\ itemToCount\ occurs\ in\ the\ list.\n
+numComments=2

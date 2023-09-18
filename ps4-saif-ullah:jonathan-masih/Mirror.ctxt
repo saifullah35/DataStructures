@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Mirror
+comment0.text=\n\ This\ program\ prompts\ the\ user\ for\ a\ line\ of\n\ input\ and\ then\ prints\ the\ input\ mirrored.\n\ For\ example,\ if\ the\ input\ is\n\ \n\ ABCD\n\ \n\ the\ output\ would\ be\n\ \n\ ABCDDCBA\n\ \n\ For\ credit,\ this\ program\ must\ use\ a\ stack\ to\ accomplish\n\ its\ task.\n\n\ @author\ Saif\ Ullah\ and\ Jonathan\ Masih\n\ @version\ Spring\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

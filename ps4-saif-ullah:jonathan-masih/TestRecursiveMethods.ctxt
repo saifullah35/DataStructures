@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestRecursiveMethods
+comment0.text=\n\ This\ program\ tests\ the\ recursive\ methods\ in\ LinkedListOfDouble\n\ and\ Recursive\ Practice.\n\ \n\ YOUR\ MAY\ NEED\ TO\ COMMENT\ OUT\ AND/OR\ MODIFY\ THIS\ PROGRAM\n\ DEPENDING\ ON\ WHICH\ METHODS\ YOU\ CHOOSE\ TO\ IMPLEMENT\ FOR\n\ PROBLEM\ SET\ 4.\n\ \n\ @author\ Prof.\ White\n\ @version\ Spring\ 2019\n
+comment1.params=
+comment1.target=void\ testRecursiveLinkedSeq()
+numComments=2

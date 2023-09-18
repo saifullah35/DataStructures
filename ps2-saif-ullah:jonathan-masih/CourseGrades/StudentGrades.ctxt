@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StudentGrades
+comment0.text=\n\ A\ class\ to\ track\ a\ student's\ name\ and\ a\ list\ of\ numeric\ grades\ for\n\ that\ student.\n\ \n\ @author\ Jim\ Teresco\n\ @version\ Fall\ 2019\n
+comment1.params=name
+comment1.target=StudentGrades(java.lang.String)
+comment1.text=\n\ Construct\ a\ new\ student,\ who\ has\ no\ grades\ when\ starting\ out.\n\ \n\ @param\ name\ The\ student's\ name.\n
+comment2.params=grade
+comment2.target=void\ addGrade(double)
+comment2.text=\n\ Add\ a\ grade\ to\ a\ for\ the\ student.\n\ \n\ @param\ The\ grade\ to\ add\ to\ this\ student's\ grade\ list.\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ Get\ this\ student's\ name.\n\ \n\ @return\ The\ student's\ name.\n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\n\ Determine\ equality\ of\ StudentGrades\ objects,\ defined\ such\ that\ two\ StudentGrades\ objects\n\ are\ equal\ if\ they\ have\ the\ same\ name\ field\n\ \n\ @param\ obj\ The\ other\ object.\n\ @return\ true\ If\ this\ and\ obj\ have\ the\ same\ name\ field.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ string\ representing\ the\ StudentGrade\ object.\n\ \n\ @return\ Returns\ a\ string\ representing\ the\ StudentGrade\ object.\n
+numComments=6

@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=LinkedListOfDouble
+comment0.text=\n\ This\ class\ stores\ double\ values\ in\ a\ singly\ linked\ list.\ \ \n\ \n\ Note\:\ \ The\ add\ method\ adds\ elements\ to\ the\ END\ of\ the\ list.\n\ \n\ Complete\ the\ methods\ that\ have\ the\ comment\ "YOUR\ CODE\ HERE."\n\ You\ must\ implement\ recursive\ solutions\ for\ credit.\n\ \n\ @author\ (Saif\ Ullah\ and\ Jonathan\ Masih)\n\ @version\ (May\ 3,\ 2021)\n
+comment1.params=
+comment1.target=LinkedListOfDouble()
+comment1.text=\n\ Initializes\ an\ empty\ list.\ \n
+comment2.params=mult
+comment2.target=void\ recursiveMultiply(int)
+comment2.text=\n\ Mutates\ the\ list\ by\ multiplying\ all\ of\ the\ values\ in\ the\ list\n\ by\ the\ input\ value.\n\ \n\ @param\ mult\ The\ multiplier.\n
+comment3.params=n\ mult
+comment3.target=void\ recursiveMultiply(LinkedListOfDouble.Node,\ int)
+comment3.text=\n\ Mutates\ the\ list\ by\ multiplying\ all\ of\ the\ values\ in\ the\ list\n\ starting\ at\ node\ n\ by\ the\ input\ value.\n\ \n\ @param\ n\ The\ first\ node\ to\ mutate.\n\ @param\ mult\ The\ multiplier.\n
+comment4.params=num
+comment4.target=int\ recursiveCountLarger(double)
+comment4.text=\n\ Returns\ the\ count\ of\ the\ number\ of\ elements\ in\ the\ linked\ sequence\n\ whose\ value\ is\ larger\ than\ the\ input\ value.\n\ \n\ @param\ num\ The\ value\ the\ node\ must\ be\ larger\ than\ to\ be\ counted.\n\ @return\ The\ count\ of\ the\ number\ of\ elements\ in\ the\ linked\ sequence\n\ whose\ value\ is\ larger\ than\ the\ input\ value.\n
+comment5.params=n\ num
+comment5.target=int\ recursiveCountLarger(LinkedListOfDouble.Node,\ double)
+comment5.text=\n\ Returns\ the\ count\ of\ the\ number\ of\ elements\ in\ the\ linked\ \n\ sequence\ whose\ value\ is\ larger\ than\ the\ input\ value,\ beginning\n\ with\ node\ n.\n\ \n\ @param\ n\ The\ first\ node\ to\ consider.\n\ @param\ num\ The\ value\ the\ node\ must\ be\ larger\ than\ to\ be\ counted.\n\ @return\ The\ count\ of\ the\ number\ of\ elements\ in\ the\ linked\ sequence\n\ whose\ value\ is\ larger\ than\ the\ input\ value\ beginning\ with\ node\ n.\n
+comment6.params=element
+comment6.target=void\ add(double)
+comment6.text=\ \n\ Adds\ the\ element\ to\ the\ end\ of\ the\ list.\n\ \n\ @param\ element\ The\ element\ to\ be\ added.\n
+comment7.params=pos
+comment7.target=double\ get(int)
+comment7.text=\ \n\ Returns\ the\ element\ at\ position\ pos\ in\ the\ list.\n\ pos\ must\ be\ in\ the\ range\ [0...currentSize-1].\ \n\ \n\ If\ it\ is\ not,\ then\ the\ IndexOutOfBounds\ exception\n\ is\ thrown.\n\ \n\ @param\ pos\ the\ position\ of\ the\ desired\ element\n\ @return\ the\ indicated\ element.\n\ @throws\ IndexOutOfBoundsException\ if\ pos\ <\ 0\ or\ pos\ >\=\ currentSize.\ \n
+comment8.params=
+comment8.target=int\ size()
+comment8.text=\n\ Returns\ the\ number\ of\ elements\ in\ the\ list\n\ @return\ the\ number\ of\ list\ elements\n
+comment9.params=pos
+comment9.target=void\ checkBounds(int)
+comment9.text=\ \n\ Valid\ positions\ for\ elements\ in\ the\ list\ range\ from\ 0\ to\ currentSize-1.\ This\ method\ checks\n\ that\ pos\ is\ valid.\ If\ pos\ is\ not\ in\ this\ range,\ then\ it\ throws\ the\ IndexOutOfBounds\ \n\ exception.\ Otherwise,\ it\ does\ nothing.\ \n\ \n\ @param\ pos\ a\ position\ in\ the\ list\n\ @throws\ IndexOutOfBoundsException\ if\ pos\ <\ 0\ or\ pos\ >\=\ currentSize\n
+numComments=10

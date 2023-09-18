@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Shift
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shift\ here.\n\n\ @author\ (Saif\ Ullah\ and\ Jonathan\ Masih)\n\ @version\ (3/14/2021)\n
+comment1.params=size
+comment1.target=Shift(int)
+comment2.params=board
+comment2.target=void\ printArray(java.lang.String[])
+comment3.params=location
+comment3.target=java.lang.String\ getChip(int)
+comment4.params=location\ value
+comment4.target=void\ setChip(int,\ java.lang.String)
+comment5.params=chipValue
+comment5.target=int\ chipLocation(int)
+comment6.params=coin\ pos
+comment6.target=void\ moveChip(int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

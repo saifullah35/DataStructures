@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RecursivePractice
+comment0.text=\n\ All\ solutions\ in\ this\ class\ must\ be\ implemented\ recursively\n\ according\ to\ the\ function\ directions.\n\ \n\ @author\ Prof.\ White\n\ @version\ Spring\ 2019\n
+comment1.params=arr\ first\ last\ k
+comment1.target=boolean\ atLeastKNegatives(int[],\ int,\ int,\ int)
+comment1.text=\n\ Returns\ true\ if\ there\ are\ at\ least\ k\ negative\ values\ among\ \n\ the\ values\ arr[first]\ -->\ arr[last]\n\ where\ 0\ <\=\ first\ <\=\ last\ <\ arr.length.\ \n\ \n\ For\ example,\ if\ arr\ \=\ {-2,\ 5,\ -1,\ 9,\ 4},\ first\ is\ 0,\ last\ is\ 4,\n\ and\ k\ is\ 3,\ the\ function\ would\ return\ false.\ \ If\ k\ were\ 2,\ the\n\ function\ would\ return\ true.\n\ \n\ @param\ arr\ The\ input\ array.\n\ @param\ first\ The\ first\ index\ in\ the\ input\ array\ to\ consider.\n\ @param\ last\ The\ last\ index\ in\ the\ input\ array\ to\ consider.\n\ @param\ k\ The\ minimum\ number\ of\ negative\ values\ in\ the\ array.\n\ @return\ true\ if\ there\ are\ at\ least\ k\ negative\ values\ among\ \n\ the\ values\ arr[first]\ -->\ arr[last].\ \n
+comment2.params=arr\ first\ last\ k
+comment2.target=int\ prefixSum(int[],\ int,\ int,\ int)
+comment2.text=\n\ Returns\ the\ sum\ of\ the\ first\ k\ values\ of\ arr[first]\ -->\ arr[last]\n\ where\ 0\ <\=\ first\ <\=\ last\ <\ arr.length\ and\ first\ <\=\ k\ <\=\ last.\n\n\ For\ example,\ if\ arr\ \=\ {2,\ 5,\ 1,\ 9,\ 4},\ first\ is\ 0,\ last\ is\ 4,\n\ and\ k\ is\ 3,\ the\ function\ would\ return\ 8.\ \ If\ k\ were\ 0,\ the\n\ sum\ would\ be\ 0.\n\ \n\ @param\ arr\ The\ input\ array.\n\ @param\ first\ The\ first\ index\ in\ the\ input\ array\ to\ consider.\n\ @param\ last\ The\ last\ index\ in\ the\ input\ array\ to\ consider.\n\ @param\ k\ The\ number\ of\ elements\ to\ sum\ starting\ with\ arr[first].\n\ @return\ The\ sum\ of\ the\ first\ k\ values\ of\ arr[first]\uFFFDarr[last].\n
+numComments=3
