@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ConvertToBinary
+comment0.text=\n\ Convert\ a\ positive\ decimal\ integer\ to\ its\ binary\ equivalent\ using\ the\ division\ method.\n\n\ @author\ (Saif\ Ullah\ and\ Jonathan\ Masih)\n\ @version\ (April\ 26,\ 2021)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=num
+comment2.target=Stack\ binaryCon(int)
+numComments=3

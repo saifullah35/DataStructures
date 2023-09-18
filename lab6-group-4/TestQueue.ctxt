@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestQueue
+comment0.text=\n\ Tests\ the\ Queue<E>\ class.\n\ \n\ @author\ Prof.\ White\n\ @version\ Spring\ 2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

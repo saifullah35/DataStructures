@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=DoublyLinkedList
+comment0.text=\n\ This\ class\ implements\ some\ of\ the\ methods\ of\ a\ doubly\ linked\ list.\n\ \n\ You\ may\ not\ add\ any\ additional\ methods\ or\ import\ statement.\ \ \n\ You\ may\ not\ use\ any\ arrays.\n\ \n\ @author\ Jonathan\ Masih\ and\ Saif\ ullah\n\ @version\ 4/12/2021\n
+comment1.params=
+comment1.target=DoublyLinkedList()
+comment1.text=\n\ Constructs\ a\ new,\ empty\ doubly\ linked\ list.\n
+comment10.params=
+comment10.target=java.lang.String\ toStringReverse()
+comment10.text=\ Returns\ a\ String\ representation\ of\ the\ doubly\ linked\ list\n\ with\ the\ values\ in\ reverse\ order.\n\ \n\ If\ the\ list\ is\ empty,\ returns\ <\ >.\n\ If\ the\ list\ has\ values\ 1\ and\ 2,\ returns\ <\ 2\ 1\ >.\n\ \n\ YOU\ MAY\ NOT\ CALL\ ANY\ OTHER\ METHODS.\n\ \n\ @returns\ a\ String\ representation\ of\ the\ doubly\ linked\ list\n\ with\ the\ values\ in\ reverse\ order.\n
+comment2.params=
+comment2.target=int\ getSize()
+comment2.text=\n\ Returns\ the\ number\ of\ nodes\ in\ the\ list.\n\ \n\ @return\ The\ number\ of\ nodes\ in\ the\ list.\n
+comment3.params=element
+comment3.target=void\ addAtStart(java.lang.Object)
+comment3.text=\n\ Adds\ (inserts)\ a\ node\ to\ the\ BEGINNING\ of\ the\ list.\n\ \n\ Postcondition\:\ The\ list\ is\ modified\ to\ have\ the\ element\ inserted\n\ at\ the\ position.\n\n\ @param\ element\ The\ element\ to\ be\ added\ to\ the\ start\ of\ the\ list.\n
+comment4.params=element
+comment4.target=void\ addAtEnd(java.lang.Object)
+comment4.text=\n\ Adds\ (inserts)\ a\ node\ to\ the\ END\ of\ the\ list.\n\ \n\ Postcondition\:\ The\ list\ is\ modified\ to\ have\ the\ element\ inserted\n\ at\ the\ position.\n\n\ @param\ element\ The\ element\ to\ be\ added\ to\ the\ end\ of\ the\ list.\n
+comment5.params=
+comment5.target=void\ deleteFromStart()
+comment5.text=\n\ Deletes\ a\ node\ from\ the\ BEGINNING\ of\ the\ list.\ \ \n\ \n\ @throws\ NoSuchElementException\ if\ there\ are\ no\ nodes\ in\n\ the\ list.\n
+comment6.params=
+comment6.target=void\ deleteFromEnd()
+comment6.text=\n\ Deletes\ a\ node\ from\ the\ END\ of\ the\ list.\n\ \n\ @throws\ NoSuchElementException\ if\ there\ are\ no\ nodes\ in\n\ the\ list.\n
+comment7.params=index
+comment7.target=java.lang.Object\ elementAt(int)
+comment7.text=\n\ Returns\ the\ value\ of\ the\ node\ at\ the\ input\ index.\n\ \n\ @param\ index\ The\ index\ of\ the\ node\ whose\ value\ will\ be\ returned.\n\ @return\ The\ value\ of\ the\ node\ at\ the\ index.\n\ @throws\ IndexOutOfBoundsException\ if\ index\ <\ 0\ or\ index\ >\=\ size\ of\ the\ list.\n\ @throws\ NoSuchElementException\ if\ there\ are\ no\ elements\ in\ the\ list.\n
+comment8.params=index
+comment8.target=void\ deleteAtIndex(int)
+comment8.text=\n\ Deletes\ the\ node\ at\ the\ input\ index.\n\ \n\ @param\ index\ The\ index\ of\ the\ node\ to\ be\ deleted.\n\ @throws\ IndexOutOfBoundsException\ if\ index\ <\ 0\ or\ index\ >\=\ size\ of\ the\ list.\n\ @throws\ NoSuchElementException\ if\ there\ are\ no\ elements\ in\ the\ list.\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\n\ Returns\ a\ String\ representation\ of\ the\ doubly\ linked\ list.\n\ If\ the\ list\ is\ empty,\ returns\ <\ >.\n\ If\ the\ list\ has\ values\ 1\ and\ 2,\ returns\ <\ 1\ 2\ >.\n\ \n\ YOU\ MAY\ NOT\ CALL\ ANY\ OTHER\ METHODS.\n\ \n\ @returns\ a\ String\ representation\ of\ the\ doubly\ linked\ list.\n
+numComments=11
