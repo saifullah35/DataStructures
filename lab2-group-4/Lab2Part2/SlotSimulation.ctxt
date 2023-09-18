@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SlotSimulation
+comment0.text=\n\ Granny\ Green\ likes\ to\ play\ the\ slots.\ \ She\n\ goes\ to\ the\ casino\ every\ Sunday\ with\ $1000.\n\ She\ bets\ $1\ every\ time\ she\ spins\ and\ pockets\n\ any\ winnings.\ \ Any\ losses\ are\ placed\ on\ her\ tab.\n\ How\ many\ times\ does\ Granny\ Green\ leave\ the\ casino\n\ a\ winner?\ \ What\ is\ her\ tab\ at\ the\ end\ of\ the\ year?\n\ \n\ This\ class\ runs\ from\ the\ main\ method\ and\ simulates\ \n\ Granny\ Green's\ luck\ at\ the\ casino.\ \ For\ each\ Sunday\ \n\ of\ the\ year,\ 52\ in\ all,\ a\ text\ file\ is\ generated.\ \ \n\ The\ files\ generated\ are\ named\ slotStudy\ +\ week\ number\ \n\ +\ .txt.\ \ E.g.,\ For\ week\ 1,\ the\ file\ name\ is\ \n\ slotStudy1.txt.\n\ \n\ In\ the\ file,\ the\ result\ of\ each\ spin\ and\ the\ amount\n\ it\ paid\ is\ entered,\ one\ spin\ per\ line.\ \ After\ Granny\ \n\ Green\ spends\ all\ $1000\ for\ the\ day,\ the\ amount\ she\n\ won\ or\ lost\ is\ printed\ to\ the\ file.\n\ \n\ At\ the\ end\ of\ the\ year,\ the\ number\ of\ times\ Granny\n\ Green\ walked\ out\ of\ the\ casino\ a\ winner\ is\ printed\n\ to\ the\ terminal\ window,\ along\ with\ the\ amount\ of\ her\n\ tab.\n\ \n\ Good\ luck,\ Granny\ Green\!\n\ \n\ @author\ Mrs.\ White\n\ @version\ Spring\ 2010\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

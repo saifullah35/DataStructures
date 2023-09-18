@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PayValue
+comment0.text=\n\ Objects\ of\ this\ class\ represent\ one\n\ winning\ combination\ of\ stops\ of\ a\ \n\ three\ reel\ slot\ machine,\ and\n\ the\ amount\ this\ combination\ pays\n\ in\ cents.\n\ \n\ @author\ Mrs.\ White\n\ @version\ Spring\ 2010\n
+comment1.params=position1\ position2\ position3\ pays
+comment1.target=PayValue(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructs\ a\ PayValue\ object\ by\ initializing\ the\n\ field\ variables.\n\ \n\ @param\ position1\ The\ stop\ value\ on\ the\ first\ reel.\n\ @param\ position2\ The\ stop\ value\ on\ the\ second\ reel.\n\ @param\ position3\ The\ stop\ value\ on\ the\ third\ reel.\n\ @param\ pays\ The\ amount\ this\ combination\ pays\ in\ dollars.\n
+comment2.params=
+comment2.target=java.lang.String\ getPosition1()
+comment2.text=\n\ @return\ The\ stop\ value\ of\ the\ first\ reel.\n
+comment3.params=
+comment3.target=java.lang.String\ getPosition2()
+comment3.text=\n\ @return\ The\ stop\ value\ of\ the\ second\ reel.\n
+comment4.params=
+comment4.target=java.lang.String\ getPosition3()
+comment4.text=\n\ @return\ The\ stop\ value\ of\ the\ third\ reel.\n
+comment5.params=
+comment5.target=int\ getPays()
+comment5.text=\n\ @return\ The\ amount\ this\ combination\ of\ stop\n\ values\ pays\ in\ dollars.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ @return\ The\ three\ reel\ positions\ and\ what\ the\ combination\n\ pays.\n
+numComments=7

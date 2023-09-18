@@ -1,0 +1,1001 @@
+blue 7 blank 3 bar 0 
+blank blank white 7 0 
+3 bar 1 bar 3 bar 5 
+white 7 1 bar 3 bar 0 
+blank blue 7 blank 0 
+white 7 blank blank 0 
+blank blank blank 1 
+white 7 3 bar 1 bar 0 
+white 7 2 bar 1 bar 0 
+2 bar blank 1 bar 0 
+2 bar blank 2 bar 0 
+blank blue 7 3 bar 0 
+blue 7 2 bar blank 0 
+blank blank blank 1 
+white 7 3 bar blank 0 
+blank blank 1 bar 0 
+3 bar white 7 white 7 0 
+white 7 blank blank 0 
+3 bar white 7 1 bar 0 
+2 bar 1 bar blank 0 
+blank 3 bar blank 0 
+3 bar blank blank 0 
+blank blank white 7 0 
+white 7 blank 1 bar 0 
+blank red 7 blank 0 
+blank 2 bar blank 0 
+2 bar red 7 blank 0 
+blank blank red 7 0 
+red 7 blank 1 bar 0 
+blue 7 red 7 blank 0 
+blue 7 blank blank 0 
+blank blank 2 bar 0 
+blank blank 2 bar 0 
+blank 3 bar white 7 0 
+blue 7 blank 1 bar 0 
+blank blank blank 1 
+blue 7 blue 7 blank 0 
+blue 7 blue 7 blank 0 
+blue 7 blank white 7 0 
+blank blue 7 blank 0 
+1 bar blank 3 bar 0 
+2 bar 1 bar blank 0 
+blank blank blank 1 
+blank blank 1 bar 0 
+blank 2 bar 2 bar 0 
+3 bar blank blank 0 
+white 7 white 7 blank 0 
+blue 7 blue 7 red 7 80 
+blank 3 bar blank 0 
+blank blank blank 1 
+blank 1 bar 2 bar 0 
+blank blue 7 blank 0 
+blank blank 3 bar 0 
+3 bar 2 bar 1 bar 5 
+blank blank white 7 0 
+blank 1 bar blank 0 
+blank blank white 7 0 
+blue 7 blue 7 3 bar 0 
+2 bar white 7 blank 0 
+blank 1 bar blank 0 
+blank 2 bar blank 0 
+blank blank 3 bar 0 
+blue 7 blank blank 0 
+blank blank white 7 0 
+1 bar blank blank 0 
+1 bar 2 bar blank 0 
+1 bar blank blank 0 
+2 bar blank 2 bar 0 
+blank blank blank 1 
+2 bar 1 bar 2 bar 5 
+2 bar blank 2 bar 0 
+blank 3 bar blank 0 
+3 bar 1 bar blank 0 
+blank 1 bar white 7 0 
+blank blank blank 1 
+blue 7 blank white 7 0 
+3 bar blue 7 blank 0 
+blank 3 bar white 7 0 
+blank red 7 blank 0 
+blank blank 2 bar 0 
+blank blank white 7 0 
+blank blank 3 bar 0 
+blank blank blank 1 
+blank white 7 2 bar 0 
+3 bar blank blank 0 
+blank blank 1 bar 0 
+blank blank white 7 0 
+2 bar blank blank 0 
+blank 2 bar blank 0 
+blank blue 7 blank 0 
+blue 7 blank blank 0 
+blank blue 7 blank 0 
+blank blank blank 1 
+blank blank blank 1 
+1 bar 3 bar white 7 0 
+white 7 3 bar blank 0 
+2 bar 1 bar 2 bar 5 
+blank 3 bar 3 bar 0 
+blank blank 1 bar 0 
+blank blank blank 1 
+blank blank 1 bar 0 
+1 bar 1 bar blank 0 
+1 bar 3 bar red 7 0 
+3 bar 3 bar 3 bar 40 
+3 bar 2 bar blank 0 
+2 bar blank 2 bar 0 
+blank blank 2 bar 0 
+blank blank blank 1 
+white 7 3 bar blank 0 
+2 bar 1 bar blank 0 
+blank 1 bar 2 bar 0 
+blank blank 3 bar 0 
+3 bar blue 7 blank 0 
+blue 7 blue 7 white 7 80 
+2 bar blank blank 0 
+blank 2 bar blank 0 
+3 bar blue 7 blank 0 
+blue 7 blank blank 0 
+blank blank blank 1 
+1 bar red 7 blank 0 
+blank blank 1 bar 0 
+2 bar blank red 7 0 
+blank 2 bar 1 bar 0 
+2 bar 2 bar red 7 0 
+white 7 blank blank 0 
+blue 7 white 7 2 bar 0 
+blank 2 bar 2 bar 0 
+blank red 7 2 bar 0 
+1 bar blue 7 blank 0 
+blue 7 2 bar blank 0 
+blank red 7 1 bar 0 
+2 bar 2 bar 3 bar 5 
+blank 1 bar blank 0 
+blank 3 bar blank 0 
+blank red 7 2 bar 0 
+blank blank 1 bar 0 
+blank blue 7 3 bar 0 
+white 7 blank 3 bar 0 
+blue 7 blank white 7 0 
+1 bar red 7 blank 0 
+2 bar blank blank 0 
+1 bar 2 bar white 7 0 
+blue 7 1 bar 1 bar 0 
+2 bar 3 bar blank 0 
+1 bar blue 7 2 bar 0 
+blank 1 bar blank 0 
+blank red 7 blank 0 
+1 bar 1 bar blank 0 
+blank 2 bar blank 0 
+blank 2 bar blank 0 
+blank blank white 7 0 
+white 7 blank blank 0 
+blank blue 7 blank 0 
+red 7 blank 1 bar 0 
+blank red 7 1 bar 0 
+blue 7 blank 3 bar 0 
+2 bar white 7 1 bar 0 
+blank 2 bar blank 0 
+1 bar blank 2 bar 0 
+blue 7 white 7 1 bar 0 
+blank blank white 7 0 
+blue 7 1 bar 2 bar 0 
+2 bar 2 bar white 7 0 
+1 bar blank 1 bar 0 
+blank blank blank 1 
+blank 2 bar 1 bar 0 
+blank 1 bar 2 bar 0 
+blank blank blank 1 
+blank blank 3 bar 0 
+2 bar blank white 7 0 
+1 bar 1 bar 2 bar 5 
+blank 1 bar blank 0 
+3 bar blank white 7 0 
+red 7 3 bar blue 7 0 
+blank blue 7 3 bar 0 
+white 7 1 bar 3 bar 0 
+blank white 7 blank 0 
+2 bar 3 bar 3 bar 5 
+3 bar blank blank 0 
+blank 3 bar 3 bar 0 
+2 bar blank 1 bar 0 
+blank blue 7 white 7 0 
+blank blue 7 2 bar 0 
+blank 2 bar white 7 0 
+blank 1 bar 2 bar 0 
+white 7 blank 2 bar 0 
+blue 7 blank 2 bar 0 
+white 7 red 7 2 bar 0 
+blank blank blank 1 
+1 bar 1 bar blank 0 
+blue 7 blank blank 0 
+blank 1 bar 1 bar 0 
+blank 1 bar blank 0 
+white 7 blank blank 0 
+blank blank blank 1 
+1 bar blank blank 0 
+red 7 blank blank 0 
+blue 7 blue 7 2 bar 0 
+blank blank blank 1 
+3 bar blank blank 0 
+blank blank 1 bar 0 
+blank blank white 7 0 
+blank blank white 7 0 
+blue 7 blank blank 0 
+white 7 red 7 1 bar 0 
+blue 7 1 bar 1 bar 0 
+white 7 blank blank 0 
+blank blank blank 1 
+blank blank white 7 0 
+3 bar blue 7 1 bar 0 
+blank blank blank 1 
+3 bar 2 bar blank 0 
+white 7 red 7 blank 0 
+blank blank 3 bar 0 
+2 bar 3 bar blank 0 
+blank 3 bar white 7 0 
+blank white 7 blank 0 
+3 bar 3 bar blank 0 
+white 7 blank 3 bar 0 
+blank blank white 7 0 
+3 bar blank 2 bar 0 
+2 bar 3 bar white 7 0 
+blank blank blank 1 
+1 bar 3 bar 1 bar 5 
+blank blank white 7 0 
+blue 7 blank blank 0 
+blank blue 7 blank 0 
+blank blank blank 1 
+1 bar blue 7 1 bar 0 
+blue 7 blank blank 0 
+blank blank white 7 0 
+white 7 1 bar blank 0 
+blank blank blank 1 
+blank blank blank 1 
+blank 3 bar blue 7 0 
+2 bar white 7 blank 0 
+blank blank blank 1 
+blank blank blank 1 
+1 bar blank blank 0 
+white 7 blank blank 0 
+blank blank 2 bar 0 
+blue 7 3 bar 2 bar 0 
+white 7 1 bar 1 bar 0 
+blank blank blank 1 
+3 bar blank blank 0 
+blank 1 bar 1 bar 0 
+blank blue 7 blank 0 
+blank blank blank 1 
+3 bar blue 7 blank 0 
+blank blue 7 blank 0 
+2 bar blank blank 0 
+blank 1 bar blank 0 
+2 bar blank blank 0 
+1 bar 2 bar 2 bar 5 
+3 bar blank blank 0 
+3 bar blank 1 bar 0 
+blue 7 blank blank 0 
+2 bar 2 bar blank 0 
+blank blank 2 bar 0 
+blank 2 bar blank 0 
+2 bar red 7 2 bar 0 
+3 bar blank blank 0 
+blank blank white 7 0 
+blank 2 bar 2 bar 0 
+blank 1 bar 3 bar 0 
+3 bar 3 bar 1 bar 5 
+2 bar blank blank 0 
+blank 2 bar 2 bar 0 
+3 bar blue 7 blank 0 
+blank blank blank 1 
+blank red 7 blank 0 
+blue 7 blank blank 0 
+blue 7 blank white 7 0 
+blue 7 blank blank 0 
+1 bar blank 1 bar 0 
+blank blank blank 1 
+blank 2 bar blank 0 
+blank 1 bar 2 bar 0 
+blank blank 2 bar 0 
+white 7 white 7 blank 0 
+2 bar blank 1 bar 0 
+3 bar blank 2 bar 0 
+blank blank white 7 0 
+3 bar blank blank 0 
+blank blank white 7 0 
+blank red 7 white 7 0 
+blank blue 7 blank 0 
+blank 3 bar blue 7 0 
+white 7 blank blank 0 
+2 bar blank blank 0 
+blank blank blank 1 
+blank blank white 7 0 
+2 bar blank blank 0 
+white 7 blank blank 0 
+blank 1 bar blank 0 
+blank blank 1 bar 0 
+blue 7 blank white 7 0 
+1 bar blank 1 bar 0 
+blank blank blank 1 
+1 bar blank blank 0 
+blank blank blank 1 
+blank 3 bar white 7 0 
+blue 7 red 7 blue 7 80 
+blank blank 1 bar 0 
+white 7 blank blank 0 
+red 7 blank 2 bar 0 
+2 bar blank blank 0 
+blank blank blue 7 0 
+blank blank 2 bar 0 
+red 7 blank white 7 0 
+blank blank 1 bar 0 
+blank blank 1 bar 0 
+blank blank blank 1 
+blank 2 bar blank 0 
+white 7 1 bar blank 0 
+3 bar 1 bar white 7 0 
+2 bar blank blank 0 
+white 7 blank blank 0 
+blank blank blank 1 
+blank blank 2 bar 0 
+blue 7 2 bar blank 0 
+blue 7 blank blank 0 
+blank blank white 7 0 
+blue 7 blank 2 bar 0 
+blank red 7 white 7 0 
+blank 2 bar 2 bar 0 
+blank blue 7 blank 0 
+2 bar blank white 7 0 
+1 bar 3 bar blank 0 
+blank 3 bar 2 bar 0 
+blank blank blank 1 
+blank blank 2 bar 0 
+1 bar blue 7 2 bar 0 
+blank blank blank 1 
+blank blank blank 1 
+blank 3 bar 2 bar 0 
+blank blank 1 bar 0 
+blank blue 7 blank 0 
+3 bar blank blank 0 
+blank blank 1 bar 0 
+white 7 1 bar 1 bar 0 
+blank blank blank 1 
+2 bar blue 7 blank 0 
+2 bar 1 bar 2 bar 5 
+blank 1 bar blank 0 
+2 bar 2 bar blank 0 
+blue 7 blank blank 0 
+2 bar 3 bar blank 0 
+blank 3 bar blank 0 
+3 bar 1 bar blank 0 
+blank blank blank 1 
+blank blue 7 2 bar 0 
+blue 7 red 7 1 bar 0 
+1 bar 3 bar blank 0 
+blank blank blank 1 
+blank blue 7 blank 0 
+blue 7 2 bar blank 0 
+blue 7 1 bar blank 0 
+blank red 7 2 bar 0 
+blank blank blank 1 
+white 7 1 bar blank 0 
+white 7 blank blank 0 
+blank blank 2 bar 0 
+white 7 blank blank 0 
+blank blank white 7 0 
+blank 2 bar blank 0 
+blank blue 7 blank 0 
+blank 3 bar 3 bar 0 
+blank 3 bar red 7 0 
+3 bar blank white 7 0 
+2 bar 2 bar 3 bar 5 
+blank blank 1 bar 0 
+1 bar blank 1 bar 0 
+blank blank blank 1 
+blank 1 bar blank 0 
+blank blank blank 1 
+3 bar 1 bar blank 0 
+3 bar blue 7 blank 0 
+blank 2 bar blank 0 
+blank 1 bar 1 bar 0 
+blank blank white 7 0 
+blank blank white 7 0 
+blue 7 blank 3 bar 0 
+blank blank 3 bar 0 
+blank blank blank 1 
+blank blank blank 1 
+3 bar 2 bar white 7 0 
+blank blank blank 1 
+white 7 blue 7 blank 0 
+3 bar blank 3 bar 0 
+blank blank blank 1 
+2 bar 3 bar blank 0 
+3 bar 2 bar blank 0 
+blank blue 7 blank 0 
+white 7 red 7 2 bar 0 
+blank 3 bar 1 bar 0 
+blank 3 bar blank 0 
+blank blank 1 bar 0 
+blank 2 bar blank 0 
+blank blank blank 1 
+blank blank blank 1 
+blank 1 bar blank 0 
+white 7 blank blank 0 
+blank blue 7 1 bar 0 
+blank 3 bar 2 bar 0 
+2 bar 3 bar blank 0 
+white 7 1 bar 2 bar 0 
+blank blank 2 bar 0 
+2 bar 2 bar blank 0 
+blank blank blank 1 
+white 7 blue 7 blank 0 
+2 bar 1 bar blank 0 
+blank blank blank 1 
+blue 7 blank 1 bar 0 
+white 7 blank blank 0 
+blank blank 1 bar 0 
+white 7 3 bar 2 bar 0 
+2 bar blue 7 blank 0 
+blank blank blank 1 
+blank blank blank 1 
+blank blank blank 1 
+blank 1 bar 1 bar 0 
+2 bar blank blank 0 
+white 7 2 bar blank 0 
+3 bar 3 bar 1 bar 5 
+1 bar 1 bar 1 bar 10 
+blank blue 7 blank 0 
+1 bar 3 bar 3 bar 5 
+blank red 7 white 7 0 
+blue 7 red 7 1 bar 0 
+3 bar 3 bar white 7 0 
+white 7 blank 3 bar 0 
+3 bar 2 bar 1 bar 5 
+blank 1 bar 1 bar 0 
+blank blank 3 bar 0 
+1 bar blue 7 blank 0 
+blank blank blank 1 
+3 bar blank blank 0 
+1 bar 3 bar 1 bar 5 
+blank 3 bar 1 bar 0 
+blank blank white 7 0 
+blank blue 7 blank 0 
+blank 2 bar 1 bar 0 
+blank 2 bar blank 0 
+blue 7 blank blank 0 
+2 bar 1 bar blank 0 
+blank blue 7 blank 0 
+3 bar blank 1 bar 0 
+blue 7 blue 7 3 bar 0 
+white 7 blue 7 blank 0 
+blue 7 blank white 7 0 
+blue 7 blank white 7 0 
+blank blank 3 bar 0 
+blank 2 bar 1 bar 0 
+blank 3 bar 2 bar 0 
+blank blank blank 1 
+blank blank 3 bar 0 
+2 bar 3 bar white 7 0 
+blank blank 2 bar 0 
+1 bar blank blank 0 
+1 bar blue 7 blank 0 
+blank blank white 7 0 
+2 bar 1 bar white 7 0 
+blank 1 bar blank 0 
+blank blank blank 1 
+blank white 7 blank 0 
+3 bar 1 bar blank 0 
+blank 3 bar blank 0 
+1 bar blank white 7 0 
+3 bar blue 7 2 bar 0 
+blank blank 2 bar 0 
+blank blank white 7 0 
+white 7 blank blank 0 
+blue 7 3 bar blank 0 
+blank 1 bar blank 0 
+3 bar 1 bar blank 0 
+1 bar 3 bar 1 bar 5 
+2 bar 3 bar 2 bar 5 
+blank 2 bar blank 0 
+1 bar 2 bar 3 bar 50 
+blue 7 1 bar blank 0 
+2 bar blank 2 bar 0 
+blank white 7 blank 0 
+blank red 7 3 bar 0 
+blank 1 bar blank 0 
+blank blank blank 1 
+1 bar 1 bar white 7 0 
+white 7 1 bar blank 0 
+3 bar blank white 7 0 
+blank blank 2 bar 0 
+blank 1 bar blank 0 
+3 bar blue 7 blank 0 
+1 bar blank blank 0 
+blank blue 7 1 bar 0 
+white 7 blank blank 0 
+blank 1 bar blank 0 
+blank blank blank 1 
+1 bar 1 bar blank 0 
+3 bar blue 7 white 7 0 
+blank blank blank 1 
+1 bar 1 bar blank 0 
+1 bar blue 7 white 7 0 
+blank red 7 1 bar 0 
+blank blue 7 blank 0 
+2 bar 3 bar 2 bar 5 
+blue 7 2 bar blank 0 
+2 bar blank 2 bar 0 
+3 bar 1 bar 2 bar 5 
+white 7 3 bar blank 0 
+blank blue 7 blank 0 
+blank blank blank 1 
+white 7 3 bar 1 bar 0 
+white 7 white 7 blank 0 
+blank blank white 7 0 
+blue 7 2 bar blank 0 
+blue 7 blank 1 bar 0 
+3 bar blank white 7 0 
+white 7 blank blank 0 
+blank blank 2 bar 0 
+blank 2 bar 1 bar 0 
+blank 1 bar blank 0 
+blank 1 bar white 7 0 
+red 7 1 bar blank 0 
+blank blank blank 1 
+blank blank blank 1 
+3 bar blank blank 0 
+white 7 blank blank 0 
+1 bar 3 bar 1 bar 5 
+3 bar 2 bar blank 0 
+blank blank blank 1 
+blank 3 bar blank 0 
+2 bar blank blank 0 
+blank blank blank 1 
+white 7 1 bar blue 7 0 
+blank blank white 7 0 
+white 7 red 7 red 7 80 
+blank blank white 7 0 
+2 bar red 7 2 bar 0 
+1 bar blank 1 bar 0 
+blank blank blank 1 
+3 bar blank blank 0 
+blank 3 bar blank 0 
+2 bar 3 bar 3 bar 5 
+blank 2 bar blank 0 
+blank blank 2 bar 0 
+blank blue 7 blank 0 
+white 7 blank blank 0 
+2 bar 1 bar white 7 0 
+blank 3 bar 3 bar 0 
+blank 3 bar 1 bar 0 
+white 7 blank blank 0 
+2 bar 3 bar blank 0 
+blue 7 2 bar 2 bar 0 
+1 bar blue 7 blank 0 
+blank blank blank 1 
+blank 2 bar blank 0 
+blank blank blank 1 
+2 bar 2 bar blank 0 
+blank 1 bar blank 0 
+3 bar 1 bar blank 0 
+blank 1 bar 3 bar 0 
+1 bar blank blank 0 
+blank 1 bar blank 0 
+blank white 7 blank 0 
+1 bar blank 1 bar 0 
+blue 7 2 bar blank 0 
+white 7 blank 3 bar 0 
+blank red 7 3 bar 0 
+blue 7 red 7 blank 0 
+3 bar 1 bar blank 0 
+blank 1 bar blank 0 
+1 bar 1 bar blank 0 
+1 bar blue 7 blank 0 
+2 bar blank blank 0 
+blank red 7 blank 0 
+white 7 blank 3 bar 0 
+blue 7 blank 2 bar 0 
+1 bar red 7 blank 0 
+blank blue 7 1 bar 0 
+1 bar red 7 blank 0 
+1 bar red 7 blank 0 
+blank blank blank 1 
+red 7 blank 1 bar 0 
+blank blank blank 1 
+blue 7 3 bar blank 0 
+blank blue 7 blank 0 
+blank blue 7 2 bar 0 
+blank blank 1 bar 0 
+blank blank blank 1 
+blank blank white 7 0 
+3 bar blue 7 1 bar 0 
+3 bar 3 bar blank 0 
+blank white 7 blank 0 
+blank 2 bar blank 0 
+3 bar blank white 7 0 
+blue 7 blank 1 bar 0 
+3 bar 1 bar blank 0 
+3 bar 2 bar blank 0 
+1 bar blank blank 0 
+white 7 1 bar blank 0 
+blank blank blank 1 
+blue 7 blank blank 0 
+1 bar 1 bar 3 bar 5 
+blank blank 2 bar 0 
+2 bar blank blank 0 
+blank blank 3 bar 0 
+2 bar 3 bar 3 bar 5 
+blank blank blank 1 
+blank 2 bar blank 0 
+blank 1 bar 2 bar 0 
+3 bar 1 bar 2 bar 5 
+blue 7 3 bar 2 bar 0 
+blank blank blank 1 
+2 bar red 7 blank 0 
+1 bar blank 2 bar 0 
+2 bar blank white 7 0 
+blank blank blue 7 0 
+white 7 blank 2 bar 0 
+1 bar blank blank 0 
+1 bar blue 7 blank 0 
+1 bar red 7 blank 0 
+3 bar 1 bar blank 0 
+blank blank blank 1 
+blank 2 bar 2 bar 0 
+blank blank white 7 0 
+blank 3 bar 3 bar 0 
+blank blank blank 1 
+blue 7 blank blank 0 
+blank 3 bar blank 0 
+blank blank white 7 0 
+blank blue 7 3 bar 0 
+blank blue 7 white 7 0 
+blank 3 bar white 7 0 
+2 bar blank 1 bar 0 
+3 bar 3 bar 2 bar 5 
+blank blank blank 1 
+3 bar 1 bar red 7 0 
+blank 1 bar white 7 0 
+blank 1 bar blank 0 
+3 bar blank 2 bar 0 
+2 bar blue 7 blank 0 
+3 bar blank 2 bar 0 
+blank red 7 white 7 0 
+2 bar 3 bar blank 0 
+1 bar blank blank 0 
+blank 3 bar 2 bar 0 
+blue 7 blue 7 3 bar 0 
+blank 3 bar blank 0 
+1 bar blank blank 0 
+blank blank blank 1 
+blank 1 bar blank 0 
+white 7 1 bar blank 0 
+blank blank blank 1 
+blank 2 bar blank 0 
+blank blank 1 bar 0 
+blank blank blank 1 
+blue 7 blank 1 bar 0 
+blank 1 bar 3 bar 0 
+2 bar 2 bar 3 bar 5 
+3 bar blank blank 0 
+blank blank blank 1 
+blank blue 7 white 7 0 
+blank 3 bar blank 0 
+blank 1 bar blank 0 
+white 7 blue 7 blank 0 
+2 bar blue 7 2 bar 0 
+3 bar 1 bar blank 0 
+blue 7 red 7 blank 0 
+blank 3 bar blue 7 0 
+3 bar blank white 7 0 
+blank 1 bar 2 bar 0 
+white 7 blue 7 3 bar 0 
+2 bar blank blank 0 
+blank 2 bar 2 bar 0 
+blue 7 blank blue 7 0 
+blank blank blank 1 
+blank 3 bar blank 0 
+blank red 7 blank 0 
+white 7 1 bar 1 bar 0 
+blank blue 7 blank 0 
+blank 3 bar blank 0 
+blank blank white 7 0 
+2 bar blank blank 0 
+blank red 7 2 bar 0 
+white 7 3 bar 1 bar 0 
+3 bar 1 bar 2 bar 5 
+2 bar blank blank 0 
+white 7 blank blank 0 
+blank blank 1 bar 0 
+blank blank white 7 0 
+red 7 blank 2 bar 0 
+blue 7 blank 1 bar 0 
+blank 3 bar blank 0 
+blank 3 bar 3 bar 0 
+blank blue 7 blank 0 
+2 bar 2 bar blank 0 
+blank 3 bar 3 bar 0 
+1 bar blank blank 0 
+blank blank 2 bar 0 
+blue 7 3 bar blank 0 
+blank blue 7 blank 0 
+blank blank blank 1 
+blue 7 blue 7 blank 0 
+2 bar blank blank 0 
+blank blue 7 white 7 0 
+blank 2 bar blank 0 
+2 bar blank blank 0 
+blank blank blank 1 
+blank red 7 blank 0 
+blank blank 2 bar 0 
+2 bar blank 3 bar 0 
+blank 2 bar blank 0 
+blank 2 bar 2 bar 0 
+blank blue 7 red 7 0 
+blank blank blank 1 
+2 bar 1 bar blank 0 
+blank 2 bar blank 0 
+blank 2 bar 2 bar 0 
+blank 3 bar blank 0 
+blank 1 bar 1 bar 0 
+white 7 3 bar blank 0 
+blank white 7 3 bar 0 
+blank blank blank 1 
+3 bar 1 bar 3 bar 5 
+blank red 7 1 bar 0 
+2 bar 2 bar blank 0 
+3 bar blank blank 0 
+2 bar blue 7 blank 0 
+blank blank blank 1 
+blank blank 3 bar 0 
+blue 7 3 bar 1 bar 0 
+blue 7 2 bar 1 bar 0 
+blank blank blank 1 
+blank blank 1 bar 0 
+blank 2 bar blank 0 
+white 7 2 bar blank 0 
+2 bar blue 7 3 bar 0 
+blue 7 blank white 7 0 
+blank 3 bar blank 0 
+2 bar blank blank 0 
+blank blank 1 bar 0 
+red 7 blank blank 0 
+blank 1 bar white 7 0 
+blue 7 blank blank 0 
+2 bar blank 1 bar 0 
+1 bar blank blank 0 
+blue 7 blank blank 0 
+2 bar blank blank 0 
+white 7 blank blank 0 
+white 7 blue 7 blank 0 
+white 7 blue 7 blank 0 
+blank red 7 blank 0 
+blank blank 2 bar 0 
+blank blank 2 bar 0 
+blank red 7 white 7 0 
+2 bar blank 2 bar 0 
+1 bar white 7 2 bar 0 
+blank blank 2 bar 0 
+blue 7 blank blank 0 
+1 bar 1 bar blank 0 
+blue 7 blank blank 0 
+3 bar blank blank 0 
+blank blue 7 blank 0 
+blank 2 bar 1 bar 0 
+1 bar blank blank 0 
+white 7 blue 7 blank 0 
+3 bar blank blank 0 
+blue 7 2 bar blank 0 
+blank blank blank 1 
+blank blank blank 1 
+3 bar blank 1 bar 0 
+blank 1 bar 2 bar 0 
+blank blue 7 blank 0 
+3 bar 2 bar blank 0 
+red 7 1 bar 1 bar 0 
+white 7 blank 3 bar 0 
+blank blue 7 2 bar 0 
+blue 7 blank blank 0 
+1 bar 2 bar white 7 0 
+1 bar blank blank 0 
+white 7 blank white 7 0 
+red 7 blue 7 blank 0 
+1 bar blank blank 0 
+blue 7 blue 7 blank 0 
+3 bar blank blank 0 
+white 7 3 bar white 7 0 
+blank blank 1 bar 0 
+1 bar blue 7 blank 0 
+2 bar blank 1 bar 0 
+blank blank blue 7 0 
+blue 7 blank blank 0 
+blank blank 3 bar 0 
+white 7 blank 3 bar 0 
+blank blank 3 bar 0 
+blank 2 bar blank 0 
+3 bar blue 7 blank 0 
+1 bar blank 2 bar 0 
+blank blank 1 bar 0 
+1 bar 1 bar 2 bar 5 
+blank 2 bar white 7 0 
+1 bar blank 3 bar 0 
+white 7 blank 1 bar 0 
+1 bar blank white 7 0 
+white 7 1 bar blank 0 
+blank 2 bar blank 0 
+blank blank 3 bar 0 
+blank blank blank 1 
+blank 3 bar white 7 0 
+2 bar blank 1 bar 0 
+blue 7 red 7 1 bar 0 
+blank blank 2 bar 0 
+blank blue 7 blank 0 
+blank 1 bar 2 bar 0 
+white 7 blank 1 bar 0 
+blank blank 2 bar 0 
+blank blank white 7 0 
+blank red 7 2 bar 0 
+blank blank blank 1 
+1 bar 3 bar 2 bar 5 
+3 bar 1 bar 1 bar 5 
+3 bar blank blank 0 
+blank 3 bar blank 0 
+blank 3 bar white 7 0 
+blue 7 blue 7 blank 0 
+1 bar blank blank 0 
+2 bar blank 2 bar 0 
+blue 7 2 bar 1 bar 0 
+2 bar blank 1 bar 0 
+blank red 7 blank 0 
+blank 1 bar blank 0 
+blue 7 blank 2 bar 0 
+white 7 blank blank 0 
+blank blank blank 1 
+white 7 3 bar 2 bar 0 
+3 bar blue 7 blank 0 
+blank blue 7 3 bar 0 
+blank 3 bar blue 7 0 
+blank blue 7 2 bar 0 
+blue 7 blank 3 bar 0 
+red 7 3 bar blank 0 
+blank white 7 blank 0 
+3 bar blank blank 0 
+white 7 blue 7 2 bar 0 
+white 7 blank blank 0 
+blank blank 2 bar 0 
+3 bar blank blank 0 
+blank blank blank 1 
+blank blank blank 1 
+blue 7 blank blank 0 
+blank 2 bar 1 bar 0 
+2 bar white 7 2 bar 0 
+blank blue 7 red 7 0 
+blue 7 blank 2 bar 0 
+blank red 7 2 bar 0 
+1 bar blank white 7 0 
+blank 3 bar blank 0 
+3 bar blank 2 bar 0 
+1 bar blank 3 bar 0 
+blank blank blank 1 
+2 bar blank blank 0 
+1 bar blank blank 0 
+white 7 blank blank 0 
+blank blank blank 1 
+blank 2 bar 2 bar 0 
+blank blue 7 1 bar 0 
+blank blank white 7 0 
+blank blank 2 bar 0 
+white 7 blank 1 bar 0 
+blank blue 7 1 bar 0 
+blue 7 2 bar 1 bar 0 
+3 bar blank 1 bar 0 
+blank blue 7 blank 0 
+blue 7 blank blank 0 
+blank blank blank 1 
+blank blank 2 bar 0 
+3 bar 1 bar blank 0 
+blue 7 3 bar blank 0 
+3 bar blank 3 bar 0 
+1 bar blank blank 0 
+blue 7 1 bar 1 bar 0 
+blank red 7 1 bar 0 
+blank blank 2 bar 0 
+blank 3 bar white 7 0 
+blank white 7 2 bar 0 
+blank blank blank 1 
+2 bar blank blank 0 
+2 bar blank 1 bar 0 
+3 bar 2 bar blank 0 
+white 7 blank white 7 0 
+blue 7 3 bar blank 0 
+blank blank red 7 0 
+white 7 blue 7 blank 0 
+3 bar blank blank 0 
+blank blank 1 bar 0 
+blank blank blank 1 
+blank blank white 7 0 
+blank 3 bar 1 bar 0 
+1 bar 1 bar blank 0 
+blank blue 7 blank 0 
+1 bar blank 1 bar 0 
+white 7 blank blank 0 
+white 7 blank blue 7 0 
+blank 2 bar 1 bar 0 
+blank 1 bar blank 0 
+blank 2 bar blank 0 
+blank 2 bar 3 bar 0 
+1 bar 3 bar blank 0 
+1 bar blank blank 0 
+blank blank 2 bar 0 
+blank blank 2 bar 0 
+3 bar 1 bar blue 7 0 
+3 bar 2 bar blank 0 
+1 bar blank 3 bar 0 
+3 bar blank blank 0 
+blank red 7 white 7 0 
+blue 7 blank 2 bar 0 
+blank blank blank 1 
+3 bar 2 bar 1 bar 5 
+blank blank 3 bar 0 
+blue 7 blank blank 0 
+3 bar blank 1 bar 0 
+white 7 red 7 red 7 80 
+blue 7 blank 1 bar 0 
+3 bar blank 2 bar 0 
+blank blank 3 bar 0 
+1 bar 1 bar blank 0 
+3 bar 1 bar 3 bar 5 
+blank 1 bar blank 0 
+3 bar blank blank 0 
+red 7 1 bar blank 0 
+blank blank blank 1 
+blank blank blank 1 
+2 bar blank blank 0 
+blank blue 7 blank 0 
+blank blue 7 blank 0 
+blank blank 2 bar 0 
+3 bar 1 bar 1 bar 5 
+blank 3 bar blank 0 
+blank 2 bar 2 bar 0 
+blue 7 2 bar 1 bar 0 
+blank red 7 blank 0 
+blank 2 bar blank 0 
+blank blank 3 bar 0 
+blank blank blank 1 
+blank blank blank 1 
+blank blank white 7 0 
+blank red 7 1 bar 0 
+blank blank white 7 0 
+blank 3 bar blank 0 
+2 bar blank 2 bar 0 
+2 bar blank blank 0 
+blank 1 bar 2 bar 0 
+blank blank 3 bar 0 
+blank blank blank 1 
+blank blank 1 bar 0 
+2 bar 2 bar blank 0 
+blue 7 2 bar 2 bar 0 
+blank 1 bar 2 bar 0 
+blue 7 3 bar blank 0 
+blank blank blank 1 
+blank blue 7 blank 0 
+blank blank 1 bar 0 
+3 bar blue 7 blank 0 
+1 bar blank blank 0 
+2 bar blank blank 0 
+1 bar 1 bar 1 bar 10 
+blank 1 bar blank 0 
+white 7 blue 7 1 bar 0 
+blank 1 bar blank 0 
+blank blank blank 1 
+3 bar 3 bar blank 0 
+blank 3 bar 3 bar 0 
+3 bar 2 bar 1 bar 5 
+blank blue 7 blank 0 
+3 bar 2 bar 2 bar 5 
+blank blank 2 bar 0 
+blank 1 bar 1 bar 0 
+blank blank blank 1 
+3 bar 3 bar blank 0 
+blank blank blank 1 
+3 bar 2 bar 3 bar 5 
+3 bar blank 1 bar 0 
+3 bar 2 bar blank 0 
+blank blank blank 1 
+blank blank 1 bar 0 
+white 7 1 bar blank 0 
+blank white 7 blank 0 
+blank 1 bar 1 bar 0 
+blank blue 7 blank 0 
+blank 2 bar 1 bar 0 
+blank blank white 7 0 
+blank 1 bar blank 0 
+blank blank 1 bar 0 
+blank blank 1 bar 0 
+blank 2 bar blank 0 
+blank blank blank 1 
+blank blank blank 1 
+white 7 blue 7 blank 0 
+blank blank blank 1 
+2 bar blank blank 0 
+Week 14:  Granny Green won(lost) $-185.

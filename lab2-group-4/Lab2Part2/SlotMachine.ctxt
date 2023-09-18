@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SlotMachine
+comment0.text=\n\ This\ class\ represents\ a\ three\ reel\ slot\ machine.\n\ \n\ @author\ Saif\ Ullah\ and\ Jonathan\ Masih\ \n\ @version\ \n
+comment1.params=
+comment1.target=SlotMachine()
+comment1.text=\n\ Initializes\ a\ SlotMachine\ object\ by\ loading\n\ the\ reel\ values\ and\ the\ list\ of\ combinations\n\ of\ stops\ with\ the\ amount\ each\ pays.\n
+comment2.params=file\ separator
+comment2.target=void\ loadReels(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Reads\ from\ the\ specified\ file.\ \ The\ values\ for\ \n\ each\ of\ three\ reels\ at\ a\ single\ stop\ are\ on\ \n\ the\ same\ line,\ separated\ by\ the\ specified\ value.\n\ The\ number\ of\ stops\ in\ a\ file\ is\ unknown.\n\ \n\ The\ stops\ are\ assumed\ to\ have\ the\ same\ order\ as\ \n\ is\ read\ from\ the\ file.\ \ Case\ should\ be\ ignored\ \n\ when\ using\ data\ from\ the\ file.\n\ \n\ @param\ file\ The\ input\ file.\n\ @param\ separator\ The\ value\ used\ to\ separate\ each\ entry\n\ on\ a\ line.\n
+comment3.params=file\ separator
+comment3.target=void\ loadPayList(java.lang.String,\ java.lang.String)
+comment3.text=\n\ Reads\ the\ specified\ file.\ \ This\ file\ contains\n\ data\ reelStop1,\ reelStop2,\ reelStop3\ ,payValue\n\ separated\ by\ the\ specified\ value.\ \ The\ number\n\ of\ entries\ in\ the\ file\ is\ unknown.\n\ \n\ If\ a\ reelStop\ has\ a\ single\ word\ in\ the\ first\ reelStop\n\ position,\ then\ it\ is\ understood\ that\ any\ reelStop\ that\n\ matches\ will\ pay.\ \ E.g.,\ If\ the\ reelStop\ is\ "Red",\ then\n\ any\ combination\ of\ 3\ reds\ will\ pay.\ \ Case\ should\ be\ ignored\n\ when\ using\ data\ from\ the\ file.\n\ \n\ @param\ file\ The\ input\ file.\n\ @param\ separator\ The\ value\ used\ to\ separate\ each\ entry\n\ on\ a\ line.\n
+comment4.params=
+comment4.target=java.util.ArrayList\ spin()
+comment4.text=\n\ Randomly\ selects\ three\ stop\ positions,\ one\ for\ each\n\ reel.\n\ \n\ @return\ an\ ArrayList\ of\ String\ objects\ that\n\ represents\ the\ value\ of\ each\ reel\ at\ the\ stop\ position\n\ and\ the\ amount\ this\ combination\ pays.\ (Note\:\ An\ array\n\ implementation\ would\ be\ more\ appropriate\ here.)\n
+comment5.params=stops
+comment5.target=int\ getPayValue(java.util.ArrayList)
+comment5.text=\n\ @param\ stops\ The\ current\ stop\ value\ of\ each\ reel.\n\ @return\ The\ amount\ this\ combination\ pays.\n
+numComments=6

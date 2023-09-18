@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Conflict
+comment0.text=\n\ \ \ Example\ to\ demonstrate\ Git\ merge\ conflicts,\ intentionally.\n\ \ \ CSIS\ 210\ Lab\ Exercise.\n\n\ \ \ @author\ Jim\ Teresco\n\ \ \ @version\ Fall\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
